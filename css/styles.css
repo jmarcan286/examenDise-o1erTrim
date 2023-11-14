@@ -1,0 +1,83 @@
+body{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+nav h2{
+   font-size: 1.5rem;
+   color: black !important;
+}
+
+nav#menu{
+    font-size: 1.25rem;
+    background-color: rgb(255, 166, 0);
+    box-shadow: 0px 0px 10px black;
+}
+
+main{
+    margin-bottom: 100px;
+}
+
+#bienvenida{
+    height: 100vh;
+    background-image: url("../img/fotoInicio.avif");
+    color: white;
+    text-align: center;
+}
+
+#bienvenida div{
+    padding-top: 40vh;
+}
+
+section#bienvenida div > h1{
+    display: inline-block;
+    background-color: black;
+}
+
+
+#accordionExample{
+    margin-top: 15vh;
+}
+
+.carousel-item p{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+footer{
+    padding-top: 1.2rem;
+    background-color: #ccc;
+    box-shadow: 0px 0px 10px black;
+}
+
+
+
+footer h2{
+    font-size: 1.45rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 0.8rem;
+}
+
+footer div.row {
+    text-align: left;
+    padding-left: 5%;
+}
+
+footer ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.logo{
+    width: 4rem;
+}
+
+.red-social{
+    width: 2.5rem;
+}
+
+div.card img{
+    width: 100%;
+    margin-top: 1rem;
+}
